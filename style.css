@@ -13,6 +13,21 @@ img {
   display: block;
 }
 
-.contact {
+contact-btn {
     display: block;
+    margin: 0 auto;
+    width: 200px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
 }
